@@ -38,7 +38,7 @@ The mined rules represent a list of the packet headers most likely to be blackho
 
 ![Alt text](stats_per_src_port.png)
 
-A shown below, 80% of the ACLs have a 96% confidence of being balckholed.
+A shown below, 80% of the ACLs have a >96% confidence of being balckholed.
 
 ![Alt text](confidence_distribution.png)
 
