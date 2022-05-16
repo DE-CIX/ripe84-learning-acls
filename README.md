@@ -1,6 +1,6 @@
 # Countering DDoS Attacks with Comprehensive ACLs learnt from Blackholing Traffic
 
-This repository contains supplemental data for a DE-CIX talk held at the anti-abuse WG meeting at RIP84 Berlin 2022. If you are reading this you are most liked interested in the compiled ACLs (see rules_0.9.json).
+This repository contains supplemental data for a DE-CIX talk held at the anti-abuse WG meeting at RIP84 Berlin 2022. If you are reading this you are most liked interested in the compiled ACLs (see rules_0.9.json). The JSON format of the ACLs is described hereinafter.
 
 ## Contents
 
@@ -32,4 +32,19 @@ Notably, protocol, port_src, port_dst, can also be encoded as exclusive sets:
 
 The semantics of this encoding is that none of the above encoded values should be matched. Most vendors do not implement this for ACL matching. It is safe to assume a wildcard instead.
 
+## Rule statistics
+
+The mined rules represent a list of the packet headers most likely to be blackholed at DE-CIX. A lot of the rules cover DNS as DNS is hard to filter as it is frequently used legitimately and constitutes one of the very basic protocols keeping the Internet running. The top 10 covered sending L4 ports are shown below:
+
+![Alt text](stats_per_src_port.png)
+
+A shown below, 80% of the ACLs have a 96% confidence of being balckholed.
+
+![Alt text](confidence_distribution.png)
+
+## What is missing
+
+A script to convert the JSON format into ACLs for different networking gear (e.g., Cisco, Nokia, etc.). Feel free to issue a pull request if you want to contribute.
+
 [1] T. King, C. Dietzel, J. Snijders et al.: „RFC7999: BLACKHOLE Community“, 2016.
+[2] M. Wichtlhuber, A. Rubina, E. Strehle, O. Hohlfeld: "Countering DDoS Attacks with Comprehensive ACLs learnt from Blackholing Traffic", anti abuse WG talk at RIPE84, Berlin, 2022.
