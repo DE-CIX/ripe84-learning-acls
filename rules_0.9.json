@@ -1,0 +1,2618 @@
+{
+ "20d10ae9":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":2701,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":410966 
+},
+ "f88e88da":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27021,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":177176 
+},
+ "f58f16eb":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":179,
+  "packet_size":"(400,500]",
+  "confidence":1.0,
+  "antecedent population":62461 
+},
+ "28f5c448":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":5678,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":40417 
+},
+ "78acf9b1":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":20,
+  "packet_size":"(400,500]",
+  "confidence":1.0,
+  "antecedent population":28135 
+},
+ "0f966d0f":{
+  "protocol":6,
+  "port_src":21,
+  "port_dst":5678,
+  "packet_size":"(0,100]",
+  "confidence":1.0,
+  "antecedent population":20655 
+},
+ "ea57e197":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":25461,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":19237 
+},
+ "004b714e":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27021,
+  "packet_size":"(0,100]",
+  "confidence":1.0,
+  "antecedent population":18157 
+},
+ "54352935":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":80,
+  "packet_size":"(400,500]",
+  "confidence":1.0,
+  "antecedent population":15222 
+},
+ "9b14293d":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":5222,
+  "packet_size":"(400,500]",
+  "confidence":1.0,
+  "antecedent population":8667 
+},
+ "23be4468":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":123,
+  "packet_size":"(400,500]",
+  "confidence":1.0,
+  "antecedent population":7941 
+},
+ "4740da22":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":27021,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":7393 
+},
+ "a57c7a60":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":443,
+  "packet_size":"(800,900]",
+  "confidence":1.0,
+  "antecedent population":6790 
+},
+ "b70410ad":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":9988,
+  "packet_size":"(500,600]",
+  "confidence":1.0,
+  "antecedent population":5176 
+},
+ "3e8aea8b":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":53,
+  "packet_size":"(400,500]",
+  "confidence":1.0,
+  "antecedent population":4691 
+},
+ "c90b732d":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":9988,
+  "packet_size":"(500,600]",
+  "confidence":1.0,
+  "antecedent population":4682 
+},
+ "861731b4":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27015,
+  "packet_size":"(700,800]",
+  "confidence":1.0,
+  "antecedent population":4539 
+},
+ "38e83452":{
+  "protocol":6,
+  "port_src":21,
+  "port_dst":9988,
+  "packet_size":"(0,100]",
+  "confidence":1.0,
+  "antecedent population":4272 
+},
+ "adf4d93f":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":162,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":3646 
+},
+ "7c24f8a4":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":30120,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":3505 
+},
+ "19d542c1":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27015,
+  "packet_size":"(300,400]",
+  "confidence":1.0,
+  "antecedent population":3348 
+},
+ "eb0b77c9":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":2701,
+  "packet_size":"(1200,1300]",
+  "confidence":1.0,
+  "antecedent population":3339 
+},
+ "328b26e5":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":25461,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":3324 
+},
+ "d2fdf106":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":8080,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":3260 
+},
+ "abc3be75":{
+  "protocol":17,
+  "port_src":1900,
+  "port_dst":53,
+  "packet_size":"(300,400]",
+  "confidence":1.0,
+  "antecedent population":3190 
+},
+ "249fcae9":{
+  "protocol":17,
+  "port_src":1900,
+  "port_dst":27021,
+  "packet_size":"(400,500]",
+  "confidence":1.0,
+  "antecedent population":2978 
+},
+ "a19662af":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":2701,
+  "packet_size":"(1100,1200]",
+  "confidence":1.0,
+  "antecedent population":2788 
+},
+ "ed0a920e":{
+  "protocol":17,
+  "port_src":1900,
+  "port_dst":30120,
+  "packet_size":"(300,400]",
+  "confidence":1.0,
+  "antecedent population":2609 
+},
+ "0f142929":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":5678,
+  "packet_size":"(700,800]",
+  "confidence":1.0,
+  "antecedent population":2574 
+},
+ "c4f75c52":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":2701,
+  "packet_size":"(1300,1400]",
+  "confidence":1.0,
+  "antecedent population":2287 
+},
+ "c807dda1":{
+  "protocol":17,
+  "port_src":1900,
+  "port_dst":27021,
+  "packet_size":"(300,400]",
+  "confidence":1.0,
+  "antecedent population":2249 
+},
+ "18d9aa06":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":443,
+  "packet_size":"(1000,1100]",
+  "confidence":1.0,
+  "antecedent population":2212 
+},
+ "1d8b5d66":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":6969,
+  "packet_size":"(700,800]",
+  "confidence":1.0,
+  "antecedent population":2143 
+},
+ "5ba55a0a":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27015,
+  "packet_size":"(100,200]",
+  "confidence":1.0,
+  "antecedent population":2135 
+},
+ "67d97831":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":179,
+  "packet_size":"(300,400]",
+  "confidence":1.0,
+  "antecedent population":2082 
+},
+ "84c90d0a":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":5678,
+  "packet_size":"(700,800]",
+  "confidence":1.0,
+  "antecedent population":2000 
+},
+ "dc6e05ae":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27015,
+  "packet_size":"(800,900]",
+  "confidence":1.0,
+  "antecedent population":1975 
+},
+ "98aa33ad":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":80,
+  "packet_size":"(500,600]",
+  "confidence":1.0,
+  "antecedent population":1937 
+},
+ "bec8626e":{
+  "protocol":6,
+  "port_src":0,
+  "port_dst":22,
+  "packet_size":"*",
+  "confidence":1.0,
+  "antecedent population":1805 
+},
+ "8caf5a7d":{
+  "protocol":17,
+  "port_src":5353,
+  "port_dst":22,
+  "packet_size":"(200,300]",
+  "confidence":1.0,
+  "antecedent population":1803 
+},
+ "b5757f0c":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":9988,
+  "packet_size":"(600,700]",
+  "confidence":1.0,
+  "antecedent population":1794 
+},
+ "29775ecb":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":179,
+  "packet_size":"(200,300]",
+  "confidence":1.0,
+  "antecedent population":1740 
+},
+ "ff7e2986":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":179,
+  "packet_size":"(100,200]",
+  "confidence":1.0,
+  "antecedent population":1739 
+},
+ "429983d8":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27015,
+  "packet_size":"(600,700]",
+  "confidence":1.0,
+  "antecedent population":1580 
+},
+ "e81894af":{
+  "protocol":17,
+  "port_src":11211,
+  "port_dst":27021,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":1556 
+},
+ "0975222a":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27021,
+  "packet_size":"(700,800]",
+  "confidence":1.0,
+  "antecedent population":1510 
+},
+ "ed8621d9":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":179,
+  "packet_size":"(500,600]",
+  "confidence":1.0,
+  "antecedent population":1479 
+},
+ "cb9192fb":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":1434,
+  "packet_size":"(400,500]",
+  "confidence":1.0,
+  "antecedent population":1428 
+},
+ "a242dea7":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":5678,
+  "packet_size":"(0,100]",
+  "confidence":1.0,
+  "antecedent population":1364 
+},
+ "6b23cfc3":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":80,
+  "packet_size":"(600,700]",
+  "confidence":1.0,
+  "antecedent population":1339 
+},
+ "6ac70317":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":9988,
+  "packet_size":"(400,500]",
+  "confidence":1.0,
+  "antecedent population":1327 
+},
+ "e629e520":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":443,
+  "packet_size":"(700,800]",
+  "confidence":1.0,
+  "antecedent population":1282 
+},
+ "33dc88a6":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":443,
+  "packet_size":"(1100,1200]",
+  "confidence":1.0,
+  "antecedent population":1263 
+},
+ "d56a681a":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":80,
+  "packet_size":"(800,900]",
+  "confidence":1.0,
+  "antecedent population":1190 
+},
+ "555c7c2f":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":8080,
+  "packet_size":"(700,800]",
+  "confidence":1.0,
+  "antecedent population":1153 
+},
+ "677dc056":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":179,
+  "packet_size":"(400,500]",
+  "confidence":1.0,
+  "antecedent population":1125 
+},
+ "3a6b053d":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":161,
+  "packet_size":"(0,100]",
+  "confidence":1.0,
+  "antecedent population":1122 
+},
+ "ea29ddcb":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":5678,
+  "packet_size":"(500,600]",
+  "confidence":1.0,
+  "antecedent population":1073 
+},
+ "7fca26b6":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":5678,
+  "packet_size":"(100,200]",
+  "confidence":1.0,
+  "antecedent population":1072 
+},
+ "2cbac3b2":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":9988,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":1056 
+},
+ "6778bc52":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":5678,
+  "packet_size":"(800,900]",
+  "confidence":1.0,
+  "antecedent population":1016 
+},
+ "d0d39e23":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":69,
+  "packet_size":"(1400,1500]",
+  "confidence":1.0,
+  "antecedent population":1006 
+},
+ "a6564e27":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":"*",
+  "packet_size":"(900,1000]",
+  "confidence":1.0,
+  "antecedent population":1006 
+},
+ "59cb9260":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":5678,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9999962788,
+  "antecedent population":268733 
+},
+ "1d483afa":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":2701,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9999861409,
+  "antecedent population":72155 
+},
+ "267e4ceb":{
+  "protocol":6,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":6969,
+  "packet_size":"(0,100]",
+  "confidence":0.999982635,
+  "antecedent population":57587 
+},
+ "a4a23c96":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":6969,
+  "packet_size":"(0,100]",
+  "confidence":0.9999826278,
+  "antecedent population":230253 
+},
+ "9b49179e":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(100,200]",
+  "confidence":0.9999776631,
+  "antecedent population":44769 
+},
+ "a5cf040c":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":161,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9999661625,
+  "antecedent population":29553 
+},
+ "42a93aec":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":9988,
+  "packet_size":"(100,200]",
+  "confidence":0.9999275835,
+  "antecedent population":27618 
+},
+ "32568623":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":19312,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9999230159,
+  "antecedent population":519588 
+},
+ "8a1e3228":{
+  "protocol":6,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":25461,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9999148904,
+  "antecedent population":187993 
+},
+ "134b9c0a":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":8080,
+  "packet_size":"(400,500]",
+  "confidence":0.9998798005,
+  "antecedent population":16639 
+},
+ "3e5e428c":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":80,
+  "packet_size":"(700,800]",
+  "confidence":0.9998662833,
+  "antecedent population":14957 
+},
+ "3ae51561":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":27021,
+  "packet_size":"(400,500]",
+  "confidence":0.9998623158,
+  "antecedent population":7262 
+},
+ "a7b76d4b":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":22,
+  "packet_size":"(1300,1400]",
+  "confidence":0.9998568771,
+  "antecedent population":6987 
+},
+ "65a55c0d":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27015,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9998554798,
+  "antecedent population":325214 
+},
+ "81da4931":{
+  "protocol":6,
+  "port_src":443,
+  "port_dst":5678,
+  "packet_size":"(0,100]",
+  "confidence":0.9998438232,
+  "antecedent population":6403 
+},
+ "1a20d723":{
+  "protocol":17,
+  "port_src":17,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(100,200]",
+  "confidence":0.9998395507,
+  "antecedent population":24930 
+},
+ "8abb1830":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":30120,
+  "packet_size":"(400,500]",
+  "confidence":0.9998346424,
+  "antecedent population":36285 
+},
+ "61a31ddd":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":443,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9998273183,
+  "antecedent population":5791 
+},
+ "ec19ad3e":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":53,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9997901804,
+  "antecedent population":4766 
+},
+ "4a1b71e4":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":22,
+  "packet_size":"(0,100]",
+  "confidence":0.9997901584,
+  "antecedent population":28593 
+},
+ "0c00070f":{
+  "protocol":17,
+  "port_src":17,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(200,300]",
+  "confidence":0.9997839006,
+  "antecedent population":9255 
+},
+ "5d673ff0":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":27015,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9997785651,
+  "antecedent population":4516 
+},
+ "b391f655":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":9988,
+  "packet_size":"(300,400]",
+  "confidence":0.9997736532,
+  "antecedent population":8836 
+},
+ "a36d8f62":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":22,
+  "packet_size":"(1200,1300]",
+  "confidence":0.9997184288,
+  "antecedent population":7103 
+},
+ "43ce5c72":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":179,
+  "packet_size":"(100,200]",
+  "confidence":0.9997065728,
+  "antecedent population":3408 
+},
+ "45a991cc":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":22,
+  "packet_size":"(1100,1200]",
+  "confidence":0.9996709444,
+  "antecedent population":3039 
+},
+ "00cc2dbe":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":443,
+  "packet_size":"(900,1000]",
+  "confidence":0.9996451384,
+  "antecedent population":2818 
+},
+ "4ea777fe":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":9988,
+  "packet_size":"(800,900]",
+  "confidence":0.999600639,
+  "antecedent population":2504 
+},
+ "f3372ccc":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27015,
+  "packet_size":"(0,100]",
+  "confidence":0.9995916145,
+  "antecedent population":7346 
+},
+ "e477633c":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":179,
+  "packet_size":"(0,100]",
+  "confidence":0.999572101,
+  "antecedent population":4674 
+},
+ "af6c1752":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":9988,
+  "packet_size":"(600,700]",
+  "confidence":0.9995615958,
+  "antecedent population":2281 
+},
+ "be02d888":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":25461,
+  "packet_size":"(300,400]",
+  "confidence":0.9995203837,
+  "antecedent population":2085 
+},
+ "20026117":{
+  "protocol":6,
+  "port_src":80,
+  "port_dst":5678,
+  "packet_size":"(0,100]",
+  "confidence":0.9994649136,
+  "antecedent population":13082 
+},
+ "81866e10":{
+  "protocol":6,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":27005,
+  "packet_size":"(0,100]",
+  "confidence":0.9994523549,
+  "antecedent population":1826 
+},
+ "ba0095ed":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":9988,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9994240328,
+  "antecedent population":2225821 
+},
+ "f648e2b1":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":53,
+  "packet_size":"(0,100]",
+  "confidence":0.9993986771,
+  "antecedent population":1663 
+},
+ "77e7509b":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":30120,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9993954782,
+  "antecedent population":8271 
+},
+ "f8a236c1":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27015,
+  "packet_size":"(400,500]",
+  "confidence":0.9993514916,
+  "antecedent population":3084 
+},
+ "ad13ae9e":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":9988,
+  "packet_size":"(200,300]",
+  "confidence":0.9993466614,
+  "antecedent population":7653 
+},
+ "e7b4bdaa":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":5060,
+  "packet_size":"(700,800]",
+  "confidence":0.99926848,
+  "antecedent population":82021 
+},
+ "c623ef7a":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":9988,
+  "packet_size":"(0,100]",
+  "confidence":0.9992220321,
+  "antecedent population":12854 
+},
+ "5c7c008b":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":27015,
+  "packet_size":"(500,600]",
+  "confidence":0.999221487,
+  "antecedent population":2569 
+},
+ "416adbfa":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":2701,
+  "packet_size":"(400,500]",
+  "confidence":0.9992125984,
+  "antecedent population":1270 
+},
+ "5f7ce7b2":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":80,
+  "packet_size":"(900,1000]",
+  "confidence":0.999210734,
+  "antecedent population":5068 
+},
+ "5dfed789":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":5060,
+  "packet_size":"(800,900]",
+  "confidence":0.9991706459,
+  "antecedent population":39790 
+},
+ "f82ee570":{
+  "protocol":6,
+  "port_src":443,
+  "port_dst":9988,
+  "packet_size":"(0,100]",
+  "confidence":0.9991620112,
+  "antecedent population":3580 
+},
+ "7ac097da":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":80,
+  "packet_size":"(0,100]",
+  "confidence":0.9991386736,
+  "antecedent population":1161 
+},
+ "e89a24ec":{
+  "protocol":17,
+  "port_src":1900,
+  "port_dst":8080,
+  "packet_size":"(400,500]",
+  "confidence":0.9991328227,
+  "antecedent population":6919 
+},
+ "93ff6407":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":80,
+  "packet_size":"(600,700]",
+  "confidence":0.9991189427,
+  "antecedent population":1135 
+},
+ "f82f2fe7":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":9988,
+  "packet_size":"(700,800]",
+  "confidence":0.9990667911,
+  "antecedent population":7500 
+},
+ "56b77119":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":9988,
+  "packet_size":"(400,500]",
+  "confidence":0.9988700565,
+  "antecedent population":4425 
+},
+ "1a5ab1ca":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":27015,
+  "packet_size":"(400,500]",
+  "confidence":0.9988588904,
+  "antecedent population":43817 
+},
+ "60a251e0":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":25461,
+  "packet_size":"(400,500]",
+  "confidence":0.9987962684,
+  "antecedent population":3323 
+},
+ "4c54a226":{
+  "protocol":6,
+  "port_src":80,
+  "port_dst":9988,
+  "packet_size":"(0,100]",
+  "confidence":0.9986947604,
+  "antecedent population":5363 
+},
+ "3a4bd3ba":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":5060,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9986789246,
+  "antecedent population":221789 
+},
+ "89c23ba5":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":80,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9983844911,
+  "antecedent population":1857 
+},
+ "c6418935":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":179,
+  "packet_size":"(1300,1400]",
+  "confidence":0.9983838384,
+  "antecedent population":2475 
+},
+ "2ee6b93b":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(1200,1300]",
+  "confidence":0.9983138781,
+  "antecedent population":23130 
+},
+ "bb4c6092":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1400,1500]",
+  "confidence":0.9982047067,
+  "antecedent population":831062 
+},
+ "45eeb521":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":80,
+  "packet_size":"(800,900]",
+  "confidence":0.9981973862,
+  "antecedent population":4438 
+},
+ "31afd93d":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":443,
+  "packet_size":"(1300,1400]",
+  "confidence":0.9981721806,
+  "antecedent population":5471 
+},
+ "eaaf05e9":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":179,
+  "packet_size":"(700,800]",
+  "confidence":0.9979777553,
+  "antecedent population":2967 
+},
+ "36259c2d":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":8080,
+  "packet_size":"(400,500]",
+  "confidence":0.9978009896,
+  "antecedent population":5457 
+},
+ "0b0a27fb":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":20,
+  "packet_size":"(400,500]",
+  "confidence":0.9975969791,
+  "antecedent population":2913 
+},
+ "66aba02e":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(1200,1300]",
+  "confidence":0.9973644197,
+  "antecedent population":19730 
+},
+ "9f3c368c":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":80,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9972406181,
+  "antecedent population":1812 
+},
+ "943f24d1":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(1100,1200]",
+  "confidence":0.9971326165,
+  "antecedent population":6975 
+},
+ "aafbf835":{
+  "protocol":17,
+  "port_src":111,
+  "port_dst":"*",
+  "packet_size":"(100,200]",
+  "confidence":0.9970414201,
+  "antecedent population":1014 
+},
+ "260e7fc3":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":20,
+  "packet_size":"(300,400]",
+  "confidence":0.9969814575,
+  "antecedent population":2319 
+},
+ "7117d433":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":80,
+  "packet_size":"(0,100]",
+  "confidence":0.9967689822,
+  "antecedent population":1857 
+},
+ "0b8d963e":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":20,
+  "packet_size":"(800,900]",
+  "confidence":0.9966471081,
+  "antecedent population":1193 
+},
+ "d6f6130e":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":179,
+  "packet_size":"(1200,1300]",
+  "confidence":0.9965048544,
+  "antecedent population":2575 
+},
+ "31b6ee51":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":5060,
+  "packet_size":"(0,100]",
+  "confidence":0.9964047252,
+  "antecedent population":1947 
+},
+ "d998c6e1":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(1300,1400]",
+  "confidence":0.9963461739,
+  "antecedent population":9579 
+},
+ "a84c53c8":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":20,
+  "packet_size":"(500,600]",
+  "confidence":0.9959183673,
+  "antecedent population":1959 
+},
+ "ba9dfbf7":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":8080,
+  "packet_size":"(300,400]",
+  "confidence":0.9958677686,
+  "antecedent population":3630 
+},
+ "06f324c4":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":80,
+  "packet_size":"(400,500]",
+  "confidence":0.9957950267,
+  "antecedent population":104638 
+},
+ "cc4a12f3":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":179,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9956174642,
+  "antecedent population":188019 
+},
+ "44e2b116":{
+  "protocol":17,
+  "port_src":111,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(500,600]",
+  "confidence":0.9955642349,
+  "antecedent population":35845 
+},
+ "32c76c19":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":20,
+  "packet_size":"(0,100]",
+  "confidence":0.9952684258,
+  "antecedent population":5495 
+},
+ "10eb8e54":{
+  "protocol":17,
+  "port_src":"*",
+  "port_dst":5678,
+  "packet_size":"(400,500]",
+  "confidence":0.9949622166,
+  "antecedent population":1191 
+},
+ "bd1c0266":{
+  "protocol":17,
+  "port_src":1900,
+  "port_dst":443,
+  "packet_size":"(300,400]",
+  "confidence":0.9948927477,
+  "antecedent population":2937 
+},
+ "a0492a69":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":22,
+  "packet_size":"(500,600]",
+  "confidence":0.9943415638,
+  "antecedent population":3888 
+},
+ "dfd1cfdf":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9935263138,
+  "antecedent population":1661032 
+},
+ "1438cc2c":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":20,
+  "packet_size":"(1400,1500]",
+  "confidence":0.993524036,
+  "antecedent population":206919 
+},
+ "e9949d28":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":20,
+  "packet_size":"(600,700]",
+  "confidence":0.9935064935,
+  "antecedent population":1232 
+},
+ "a462f59a":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":20,
+  "packet_size":"(100,200]",
+  "confidence":0.9932762836,
+  "antecedent population":1636 
+},
+ "24600a84":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1200,1300]",
+  "confidence":0.993067591,
+  "antecedent population":1730 
+},
+ "5cf72335":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":22,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9930397697,
+  "antecedent population":376568 
+},
+ "1af43139":{
+  "protocol":17,
+  "port_src":1900,
+  "port_dst":8080,
+  "packet_size":"(300,400]",
+  "confidence":0.9914253049,
+  "antecedent population":15744 
+},
+ "a17d16bc":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1400,1500]",
+  "confidence":0.9913781023,
+  "antecedent population":620861 
+},
+ "5c900012":{
+  "protocol":6,
+  "port_src":21,
+  "port_dst":22,
+  "packet_size":"(0,100]",
+  "confidence":0.9912855288,
+  "antecedent population":69310 
+},
+ "06a97692":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":22,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9911032028,
+  "antecedent population":1124 
+},
+ "6512a9da":{
+  "protocol":17,
+  "port_src":443,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(800,900]",
+  "confidence":0.9909897383,
+  "antecedent population":71918 
+},
+ "c22b2d35":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":443,
+  "packet_size":"(400,500]",
+  "confidence":0.9902034152,
+  "antecedent population":29398 
+},
+ "7b01be2a":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":20,
+  "packet_size":"(700,800]",
+  "confidence":0.9901046084,
+  "antecedent population":3536 
+},
+ "2e4c3e69":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1400,1500]",
+  "confidence":0.9893509037,
+  "antecedent population":2184129 
+},
+ "ff81fa4f":{
+  "protocol":17,
+  "port_src":111,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(700,800]",
+  "confidence":0.9893273765,
+  "antecedent population":4029 
+},
+ "694c5285":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":443,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9891057649,
+  "antecedent population":46263 
+},
+ "b284295f":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":80,
+  "packet_size":"(1400,1500]",
+  "confidence":0.988777259,
+  "antecedent population":338420 
+},
+ "76eafce1":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":5060,
+  "packet_size":"(1400,1500]",
+  "confidence":0.988402544,
+  "antecedent population":16038 
+},
+ "7ce8ea16":{
+  "protocol":17,
+  "port_src":111,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(600,700]",
+  "confidence":0.9881530394,
+  "antecedent population":10298 
+},
+ "98cea345":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(500,600]",
+  "confidence":0.9879002922,
+  "antecedent population":413729 
+},
+ "19bef273":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(100,200]",
+  "confidence":0.9875876336,
+  "antecedent population":8701 
+},
+ "90eb7b8b":{
+  "protocol":17,
+  "port_src":1900,
+  "port_dst":8080,
+  "packet_size":"(200,300]",
+  "confidence":0.9872047244,
+  "antecedent population":1016 
+},
+ "9d5c42e2":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(700,800]",
+  "confidence":0.9865980615,
+  "antecedent population":8357 
+},
+ "ca2b0e11":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(100,200]",
+  "confidence":0.9864876804,
+  "antecedent population":916793 
+},
+ "5e204b37":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":80,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9857988166,
+  "antecedent population":6760 
+},
+ "d731aa95":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(300,400]",
+  "confidence":0.9857827603,
+  "antecedent population":289367 
+},
+ "df54183a":{
+  "protocol":17,
+  "port_src":443,
+  "port_dst":80,
+  "packet_size":"*",
+  "confidence":0.9855421687,
+  "antecedent population":1245 
+},
+ "da3d2242":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":30120,
+  "packet_size":"(0,100]",
+  "confidence":0.9844897959,
+  "antecedent population":1225 
+},
+ "35a924b3":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(800,900]",
+  "confidence":0.9842357779,
+  "antecedent population":5836 
+},
+ "be412651":{
+  "protocol":17,
+  "port_src":443,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1400,1500]",
+  "confidence":0.9840045344,
+  "antecedent population":239943 
+},
+ "0aee338b":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":22,
+  "packet_size":"(700,800]",
+  "confidence":0.9837962963,
+  "antecedent population":1296 
+},
+ "9df5a5dc":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(1200,1300]",
+  "confidence":0.9837233076,
+  "antecedent population":88040 
+},
+ "39c1d4cc":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(400,500]",
+  "confidence":0.983497883,
+  "antecedent population":303961 
+},
+ "a8c66add":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(600,700]",
+  "confidence":0.983352595,
+  "antecedent population":412737 
+},
+ "203b1d36":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9831068918,
+  "antecedent population":9630081 
+},
+ "c89bb714":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(700,800]",
+  "confidence":0.982995346,
+  "antecedent population":690164 
+},
+ "255f076e":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":22,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9826807229,
+  "antecedent population":1328 
+},
+ "dcf363d9":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":5060,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9826158226,
+  "antecedent population":162274 
+},
+ "13af12f2":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9823192928,
+  "antecedent population":1923 
+},
+ "2e935f75":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(1100,1200]",
+  "confidence":0.9820427771,
+  "antecedent population":8743 
+},
+ "f8fded96":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(1200,1300]",
+  "confidence":0.9819683425,
+  "antecedent population":2306499 
+},
+ "6bc7b81f":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":22,
+  "packet_size":"(300,400]",
+  "confidence":0.9818067754,
+  "antecedent population":1594 
+},
+ "ece01383":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(200,300]",
+  "confidence":0.9817269502,
+  "antecedent population":414928 
+},
+ "10c5def9":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"*",
+  "confidence":0.981607236,
+  "antecedent population":47142126 
+},
+ "2cc65e16":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9815596944,
+  "antecedent population":21005563 
+},
+ "86317dc0":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(1400,1500]",
+  "confidence":0.981524458,
+  "antecedent population":2247566 
+},
+ "b6c137fb":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(400,500]",
+  "confidence":0.9814402376,
+  "antecedent population":4041 
+},
+ "cab055dc":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"*",
+  "packet_size":"(1400,1500]",
+  "confidence":0.9812964374,
+  "antecedent population":24385087 
+},
+ "7dea5ac4":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(1100,1200]",
+  "confidence":0.9812206573,
+  "antecedent population":25986 
+},
+ "dbb7f182":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9807462467,
+  "antecedent population":9097447 
+},
+ "57ed54fa":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":80,
+  "packet_size":"(400,500]",
+  "confidence":0.9806250342,
+  "antecedent population":18271 
+},
+ "e5a5007c":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(0,100]",
+  "confidence":0.9805236883,
+  "antecedent population":578703 
+},
+ "bfab0ad4":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(800,900]",
+  "confidence":0.9800410635,
+  "antecedent population":1335492 
+},
+ "fd2f6243":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9798962387,
+  "antecedent population":1542 
+},
+ "70d43b35":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(900,1000]",
+  "confidence":0.9798952902,
+  "antecedent population":2472356 
+},
+ "e397c626":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(800,900]",
+  "confidence":0.9798598949,
+  "antecedent population":3426 
+},
+ "cdcedb50":{
+  "protocol":17,
+  "port_src":443,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(100,200]",
+  "confidence":0.9797920931,
+  "antecedent population":137273 
+},
+ "2ac91df0":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9797284731,
+  "antecedent population":10754 
+},
+ "ce3afa57":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(1100,1200]",
+  "confidence":0.9792110239,
+  "antecedent population":5218054 
+},
+ "45700385":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(500,600]",
+  "confidence":0.9789902791,
+  "antecedent population":6378 
+},
+ "a27516c3":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(700,800]",
+  "confidence":0.9789473684,
+  "antecedent population":1615 
+},
+ "eb66337a":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(800,900]",
+  "confidence":0.9788799446,
+  "antecedent population":23106 
+},
+ "66cc3d22":{
+  "protocol":17,
+  "port_src":"*",
+  "port_dst":"*",
+  "packet_size":"(1400,1500]",
+  "confidence":0.9788024271,
+  "antecedent population":51101558 
+},
+ "898a65f4":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(1300,1400]",
+  "confidence":0.978673265,
+  "antecedent population":16974 
+},
+ "591e5f40":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":30120,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9786348814,
+  "antecedent population":8893 
+},
+ "fddd2798":{
+  "protocol":47,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(500,600]",
+  "confidence":0.9782200526,
+  "antecedent population":2663 
+},
+ "e580e3d1":{
+  "protocol":"~{1,6,17,47}",
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9781577925,
+  "antecedent population":12865 
+},
+ "71e279d2":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":"*",
+  "packet_size":"(700,800]",
+  "confidence":0.9778420039,
+  "antecedent population":1038 
+},
+ "772bcab9":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(0,100]",
+  "confidence":0.9772413197,
+  "antecedent population":208404 
+},
+ "196c524a":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":22,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9769917301,
+  "antecedent population":12213 
+},
+ "2b603f47":{
+  "protocol":17,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(1300,1400]",
+  "confidence":0.9769177229,
+  "antecedent population":1153699 
+},
+ "edf9f08a":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":80,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9768249468,
+  "antecedent population":98770 
+},
+ "e980b5a3":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1000,1100]",
+  "confidence":0.9767324229,
+  "antecedent population":1977 
+},
+ "9babf21d":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(200,300]",
+  "confidence":0.9767175573,
+  "antecedent population":2620 
+},
+ "18ffba21":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(900,1000]",
+  "confidence":0.9766016713,
+  "antecedent population":1795 
+},
+ "a8b9b292":{
+  "protocol":17,
+  "port_src":1434,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(100,200]",
+  "confidence":0.9765726681,
+  "antecedent population":2305 
+},
+ "57237cb7":{
+  "protocol":17,
+  "port_src":1434,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(300,400]",
+  "confidence":0.9761466483,
+  "antecedent population":13038 
+},
+ "8444f146":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(200,300]",
+  "confidence":0.9759931538,
+  "antecedent population":22202 
+},
+ "43bc7f62":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(200,300]",
+  "confidence":0.9759371582,
+  "antecedent population":30170 
+},
+ "1ecf4a4d":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(900,1000]",
+  "confidence":0.9754429593,
+  "antecedent population":3217 
+},
+ "91fe9d4a":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(300,400]",
+  "confidence":0.975169621,
+  "antecedent population":28151 
+},
+ "f507fff6":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(600,700]",
+  "confidence":0.975057813,
+  "antecedent population":6054 
+},
+ "d60c32db":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(600,700]",
+  "confidence":0.974800504,
+  "antecedent population":2381 
+},
+ "09162ae2":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(500,600]",
+  "confidence":0.9747844672,
+  "antecedent population":41641 
+},
+ "e0cb48d1":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(300,400]",
+  "confidence":0.9746008183,
+  "antecedent population":55238 
+},
+ "03b917e4":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(600,700]",
+  "confidence":0.9745609935,
+  "antecedent population":29954 
+},
+ "f31f719c":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(300,400]",
+  "confidence":0.974528614,
+  "antecedent population":21161 
+},
+ "d4be2b5e":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(100,200]",
+  "confidence":0.9741505351,
+  "antecedent population":51297 
+},
+ "1660e48e":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1000,1100]",
+  "confidence":0.9735186156,
+  "antecedent population":7628 
+},
+ "69c31a8f":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1400,1500]",
+  "confidence":0.9734430384,
+  "antecedent population":6709992 
+},
+ "73dd580a":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(900,1000]",
+  "confidence":0.972902779,
+  "antecedent population":11551 
+},
+ "d611ab31":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(0,100]",
+  "confidence":0.9724752404,
+  "antecedent population":55332 
+},
+ "429ce0cf":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(400,500]",
+  "confidence":0.9722620452,
+  "antecedent population":13333319 
+},
+ "0113b5e9":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(400,500]",
+  "confidence":0.9721028667,
+  "antecedent population":31185 
+},
+ "b1d5838a":{
+  "protocol":17,
+  "port_src":"*",
+  "port_dst":8080,
+  "packet_size":"(800,900]",
+  "confidence":0.9712962963,
+  "antecedent population":1080 
+},
+ "02bd64df":{
+  "protocol":"~{1,6,17,47}",
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(0,100]",
+  "confidence":0.9710181452,
+  "antecedent population":87296 
+},
+ "03526d53":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(400,500]",
+  "confidence":0.970925277,
+  "antecedent population":10559 
+},
+ "728f1bcc":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(700,800]",
+  "confidence":0.970893742,
+  "antecedent population":27245 
+},
+ "6e4ae267":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(300,400]",
+  "confidence":0.9707980753,
+  "antecedent population":6027 
+},
+ "15611c07":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(200,300]",
+  "confidence":0.9707109005,
+  "antecedent population":10550 
+},
+ "80ebf6e2":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(500,600]",
+  "confidence":0.9705825803,
+  "antecedent population":15603 
+},
+ "65accb41":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(700,800]",
+  "confidence":0.9702863732,
+  "antecedent population":52030 
+},
+ "078af9bf":{
+  "protocol":17,
+  "port_src":1434,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(200,300]",
+  "confidence":0.9700837247,
+  "antecedent population":9794 
+},
+ "6d5d28d1":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":8080,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9694033413,
+  "antecedent population":20950 
+},
+ "f0f2cf15":{
+  "protocol":17,
+  "port_src":3283,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1000,1100]",
+  "confidence":0.9691848559,
+  "antecedent population":114262 
+},
+ "b43e0557":{
+  "protocol":17,
+  "port_src":"*",
+  "port_dst":8080,
+  "packet_size":"(0,100]",
+  "confidence":0.968305304,
+  "antecedent population":1546 
+},
+ "012ab838":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(700,800]",
+  "confidence":0.9681753111,
+  "antecedent population":81729 
+},
+ "d34f994d":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(100,200]",
+  "confidence":0.9678432785,
+  "antecedent population":49974 
+},
+ "a6420d16":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(800,900]",
+  "confidence":0.9662720031,
+  "antecedent population":41301 
+},
+ "e742c194":{
+  "protocol":17,
+  "port_src":"*",
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1400,1500]",
+  "confidence":0.9657825667,
+  "antecedent population":11286469 
+},
+ "5c5a3b30":{
+  "protocol":6,
+  "port_src":21,
+  "port_dst":30120,
+  "packet_size":"(0,100]",
+  "confidence":0.9648869649,
+  "antecedent population":2079 
+},
+ "f23ecc20":{
+  "protocol":6,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":9988,
+  "packet_size":"(0,100]",
+  "confidence":0.9647745538,
+  "antecedent population":59105 
+},
+ "f4c106e5":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":80,
+  "packet_size":"(1300,1400]",
+  "confidence":0.9646525611,
+  "antecedent population":43907 
+},
+ "82af34b5":{
+  "protocol":17,
+  "port_src":1900,
+  "port_dst":80,
+  "packet_size":"(400,500]",
+  "confidence":0.9637343431,
+  "antecedent population":6866 
+},
+ "813ce9ba":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":53,
+  "packet_size":"(100,200]",
+  "confidence":0.9615643681,
+  "antecedent population":23754 
+},
+ "f3a39daa":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":80,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9607318106,
+  "antecedent population":80294 
+},
+ "a023ce5a":{
+  "protocol":17,
+  "port_src":137,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(200,300]",
+  "confidence":0.9597490052,
+  "antecedent population":6534 
+},
+ "4313d39e":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":443,
+  "packet_size":"(0,100]",
+  "confidence":0.9584769065,
+  "antecedent population":28731 
+},
+ "f32c2896":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1200,1300]",
+  "confidence":0.9583057179,
+  "antecedent population":49791 
+},
+ "b0a1a4c2":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(600,700]",
+  "confidence":0.9582600503,
+  "antecedent population":31840 
+},
+ "52aaea83":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":0,
+  "packet_size":"(0,100]",
+  "confidence":0.9582511506,
+  "antecedent population":3042 
+},
+ "2be8ca2f":{
+  "protocol":17,
+  "port_src":443,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(0,100]",
+  "confidence":0.9578363495,
+  "antecedent population":175056 
+},
+ "371c1fc4":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1300,1400]",
+  "confidence":0.9573494055,
+  "antecedent population":30363 
+},
+ "64bdc6a1":{
+  "protocol":6,
+  "port_src":80,
+  "port_dst":30120,
+  "packet_size":"(0,100]",
+  "confidence":0.9572748268,
+  "antecedent population":1731 
+},
+ "abf682d2":{
+  "protocol":17,
+  "port_src":3283,
+  "port_dst":"*",
+  "packet_size":"(0,100]",
+  "confidence":0.956554878,
+  "antecedent population":1312 
+},
+ "31eed157":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":80,
+  "packet_size":"(800,900]",
+  "confidence":0.9562043796,
+  "antecedent population":1096 
+},
+ "b62cbff3":{
+  "protocol":17,
+  "port_src":161,
+  "port_dst":"*",
+  "packet_size":"(1200,1300]",
+  "confidence":0.9533146592,
+  "antecedent population":1071 
+},
+ "218593d9":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(900,1000]",
+  "confidence":0.9528872477,
+  "antecedent population":15706 
+},
+ "ff9b83ae":{
+  "protocol":6,
+  "port_src":443,
+  "port_dst":30120,
+  "packet_size":"(0,100]",
+  "confidence":0.9520737327,
+  "antecedent population":1085 
+},
+ "ff3207ab":{
+  "protocol":17,
+  "port_src":"*",
+  "port_dst":22,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9520035227,
+  "antecedent population":2271 
+},
+ "d54e33af":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":53,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9515456355,
+  "antecedent population":47715 
+},
+ "ba14e9f7":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":1234,
+  "packet_size":"(300,400]",
+  "confidence":0.9514504432,
+  "antecedent population":9928 
+},
+ "10a2fafc":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1000,1100]",
+  "confidence":0.9507979331,
+  "antecedent population":21869 
+},
+ "d87a60df":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":30120,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9476915384,
+  "antecedent population":35998 
+},
+ "ff06661b":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":443,
+  "packet_size":"(800,900]",
+  "confidence":0.9466129438,
+  "antecedent population":3970 
+},
+ "e6f51845":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(400,500]",
+  "confidence":0.9465119213,
+  "antecedent population":39635 
+},
+ "6333a63c":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(0,100]",
+  "confidence":0.9463009092,
+  "antecedent population":160580 
+},
+ "7d5d1496":{
+  "protocol":17,
+  "port_src":"*",
+  "port_dst":5060,
+  "packet_size":"(500,600]",
+  "confidence":0.9454397394,
+  "antecedent population":1228 
+},
+ "c8baa04b":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(300,400]",
+  "confidence":0.9444931631,
+  "antecedent population":92367 
+},
+ "cd8c22c9":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(800,900]",
+  "confidence":0.9419386215,
+  "antecedent population":160382 
+},
+ "1a84f2f8":{
+  "protocol":17,
+  "port_src":123,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(0,100]",
+  "confidence":0.9418393954,
+  "antecedent population":22627 
+},
+ "4ae8a366":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":443,
+  "packet_size":"(700,800]",
+  "confidence":0.9416357353,
+  "antecedent population":7813 
+},
+ "9021485b":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(500,600]",
+  "confidence":0.9395879733,
+  "antecedent population":46696 
+},
+ "e05d19b7":{
+  "protocol":6,
+  "port_src":"*",
+  "port_dst":22,
+  "packet_size":"(500,600]",
+  "confidence":0.938299055,
+  "antecedent population":1799 
+},
+ "2bed2ec8":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(700,800]",
+  "confidence":0.9378044701,
+  "antecedent population":436414 
+},
+ "29801a39":{
+  "protocol":17,
+  "port_src":5353,
+  "port_dst":80,
+  "packet_size":"(200,300]",
+  "confidence":0.9362780594,
+  "antecedent population":2762 
+},
+ "204bef79":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":53,
+  "packet_size":"(100,200]",
+  "confidence":0.9362344442,
+  "antecedent population":151712 
+},
+ "deb232c1":{
+  "protocol":17,
+  "port_src":3283,
+  "port_dst":80,
+  "packet_size":"*",
+  "confidence":0.9357030842,
+  "antecedent population":1913 
+},
+ "e4f52d2c":{
+  "protocol":6,
+  "port_src":21,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(0,100]",
+  "confidence":0.9338909059,
+  "antecedent population":323904 
+},
+ "729ec313":{
+  "protocol":17,
+  "port_src":1434,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(400,500]",
+  "confidence":0.933508103,
+  "antecedent population":4196 
+},
+ "c6fe2072":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":80,
+  "packet_size":"(800,900]",
+  "confidence":0.9324780976,
+  "antecedent population":15979 
+},
+ "47da3015":{
+  "protocol":17,
+  "port_src":1434,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(600,700]",
+  "confidence":0.9322916667,
+  "antecedent population":1536 
+},
+ "7de438de":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":30120,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9318568995,
+  "antecedent population":1174 
+},
+ "4f14f7cf":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":22,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9316005472,
+  "antecedent population":1462 
+},
+ "773ab4b3":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":80,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9304651037,
+  "antecedent population":73704 
+},
+ "247620bc":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":80,
+  "packet_size":"(300,400]",
+  "confidence":0.9301585104,
+  "antecedent population":14446 
+},
+ "ca22cc99":{
+  "protocol":6,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":22,
+  "packet_size":"(500,600]",
+  "confidence":0.9282482224,
+  "antecedent population":1547 
+},
+ "2c81105b":{
+  "protocol":6,
+  "port_src":21,
+  "port_dst":80,
+  "packet_size":"(0,100]",
+  "confidence":0.927679878,
+  "antecedent population":241233 
+},
+ "e64d0ffa":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1100,1200]",
+  "confidence":0.9274908955,
+  "antecedent population":21418 
+},
+ "4581d135":{
+  "protocol":6,
+  "port_src":0,
+  "port_dst":0,
+  "packet_size":"(0,100]",
+  "confidence":0.924925669,
+  "antecedent population":4036 
+},
+ "91fd56e8":{
+  "protocol":6,
+  "port_src":21,
+  "port_dst":443,
+  "packet_size":"(0,100]",
+  "confidence":0.9218763112,
+  "antecedent population":11917 
+},
+ "66ed2553":{
+  "protocol":17,
+  "port_src":3283,
+  "port_dst":80,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9215938303,
+  "antecedent population":1556 
+},
+ "7d005815":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":80,
+  "packet_size":"(600,700]",
+  "confidence":0.9204406365,
+  "antecedent population":1634 
+},
+ "2dee391c":{
+  "protocol":17,
+  "port_src":5353,
+  "port_dst":80,
+  "packet_size":"(100,200]",
+  "confidence":0.9203869048,
+  "antecedent population":1344 
+},
+ "fc7e68b5":{
+  "protocol":17,
+  "port_src":1434,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(500,600]",
+  "confidence":0.9199237369,
+  "antecedent population":3147 
+},
+ "828c04ed":{
+  "protocol":6,
+  "port_src":80,
+  "port_dst":80,
+  "packet_size":"(0,100]",
+  "confidence":0.9169470232,
+  "antecedent population":212527 
+},
+ "68d04077":{
+  "protocol":17,
+  "port_src":37810,
+  "port_dst":80,
+  "packet_size":"(700,800]",
+  "confidence":0.9156840526,
+  "antecedent population":32651 
+},
+ "76eebc59":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":1234,
+  "packet_size":"(500,600]",
+  "confidence":0.9154366544,
+  "antecedent population":3252 
+},
+ "c656d0bd":{
+  "protocol":17,
+  "port_src":389,
+  "port_dst":53,
+  "packet_size":"(1400,1500]",
+  "confidence":0.9126393171,
+  "antecedent population":21085 
+},
+ "72a05d94":{
+  "protocol":17,
+  "port_src":"*",
+  "port_dst":5060,
+  "packet_size":"(300,400]",
+  "confidence":0.9122807018,
+  "antecedent population":1197 
+},
+ "477a938f":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":1234,
+  "packet_size":"(100,200]",
+  "confidence":0.9120827457,
+  "antecedent population":6381 
+},
+ "6f94336a":{
+  "protocol":17,
+  "port_src":19,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(1400,1500]",
+  "confidence":0.9099289418,
+  "antecedent population":5207 
+},
+ "6eeeca5f":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":1234,
+  "packet_size":"(1000,1100]",
+  "confidence":0.9086206897,
+  "antecedent population":1160 
+},
+ "a9421e3b":{
+  "protocol":17,
+  "port_src":1194,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(0,100]",
+  "confidence":0.9078887935,
+  "antecedent population":3101653 
+},
+ "a4027970":{
+  "protocol":17,
+  "port_src":"~{0,17,19,21,25,53,69,80,111,123,137,138,161,162,389,443,520,1194,1434,1900,3283,3478,3659,3702,5060,5353,6881,8080,11211,15000,19305,25461,27005,28960,35461,37810}",
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(500,600]",
+  "confidence":0.907639003,
+  "antecedent population":620814 
+},
+ "9c741dd8":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":1234,
+  "packet_size":"(200,300]",
+  "confidence":0.9073143495,
+  "antecedent population":1791 
+},
+ "ddfbd263":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":"*",
+  "packet_size":"(500,600]",
+  "confidence":0.9068100358,
+  "antecedent population":1395 
+},
+ "02808d1f":{
+  "protocol":17,
+  "port_src":3702,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(800,900]",
+  "confidence":0.9063112505,
+  "antecedent population":5102 
+},
+ "cc2431d8":{
+  "protocol":17,
+  "port_src":3478,
+  "port_dst":80,
+  "packet_size":"(100,200]",
+  "confidence":0.9056886228,
+  "antecedent population":10688 
+},
+ "8ea23b49":{
+  "protocol":17,
+  "port_src":53,
+  "port_dst":"~{0,17,19,20,22,25,53,69,80,111,119,123,137,138,161,162,179,389,443,520,563,1234,1434,1900,2701,3283,3478,3659,3702,5060,5222,5353,5678,6881,6969,8080,9094,9988,11211,19312,25461,27005,27015,27021,28960,30120}",
+  "packet_size":"(200,300]",
+  "confidence":0.9026806922,
+  "antecedent population":29470 
+},
+ "be6aa6e6":{
+  "protocol":6,
+  "port_src":443,
+  "port_dst":80,
+  "packet_size":"(0,100]",
+  "confidence":0.9020902624,
+  "antecedent population":123573 
+}
+}
