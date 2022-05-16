@@ -36,15 +36,18 @@ The semantics of this encoding is that none of the above encoded values should b
 
 The mined rules represent a list of the packet headers most likely to be blackholed at DE-CIX. A lot of the rules cover DNS as DNS is hard to filter as it is frequently used legitimately and constitutes one of the very basic protocols keeping the Internet running. The top 10 covered sending L4 ports are shown below:
 
-![Alt text](stats_per_src_port.png)
+<img src="stats_per_src_port.png" width="50%">
 
-A shown below, 80% of the ACLs have a >96% confidence of being balckholed.
+A shown below, 80% of the ACLs have a >96% confidence of being blackholed.
 
-![Alt text](confidence_distribution.png)
+<img src="confidence_distribution.png" width="50%">
 
 ## What is missing
 
 A script to convert the JSON format into ACLs for different networking gear (e.g., Cisco, Nokia, etc.). Feel free to issue a pull request if you want to contribute.
 
+## References
+
 [1] T. King, C. Dietzel, J. Snijders et al.: „RFC7999: BLACKHOLE Community“, 2016.
+
 [2] M. Wichtlhuber, A. Rubina, E. Strehle, O. Hohlfeld: "Countering DDoS Attacks with Comprehensive ACLs learnt from Blackholing Traffic", anti abuse WG talk at RIPE84, Berlin, 2022.
