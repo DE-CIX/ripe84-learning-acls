@@ -1,6 +1,6 @@
 # Countering DDoS Attacks with Comprehensive ACLs learnt from Blackholing Traffic
 
-This repository contains supplemental data for a DE-CIX talk held at the anti-abuse WG meeting at RIP84 Berlin 2022. If you are reading this you are most liked interested in the compiled ACLs (see rules_0.9.json). The JSON format of the ACLs is described hereinafter.
+This repository contains supplemental data for a DE-CIX talk held at the anti-abuse WG meeting at RIPE84 Berlin 2022. If you are reading this you are most likely interested in the compiled ACLs (see rules_0.9.json). The JSON format of the ACLs is described hereinafter.
 
 ## Contents
 
@@ -24,13 +24,15 @@ The ACL list is provided in the following JSON format:
 
 Each field can be encoded as a wildcard (`"*"`) carrying a match any semantics.
 
+If port_src and port_dst is both set to 0, this indicates fragmented traffic.
+
 Notably, protocol, port_src, port_dst, can also be encoded as exclusive sets:
 
 ```
 "~{0,17,19,21,25,53,69,80,111}"
 ```
 
-The semantics of this encoding is that none of the above encoded values should be matched. Most vendors do not implement this for ACL matching. It is safe to assume a wildcard instead.
+The semantics of this encoding is that none of the above encoded values should be matched. Most vendors do not implement this for ACL matching. You can either omit these rules or replace them with a wildcard.
 
 ## Rule statistics
 
