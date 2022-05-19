@@ -1,13 +1,13 @@
-# v1.0 - convert json to juniper firewall
 import json
+import struct
+
 
 def single(s):
     if "~" in str(s):
         return 0
     else:
         return 1
-
-f = open("rules.json", 'r')
+f = open("rule.json", 'r')
 data = json.load(f)
 data.keys()
 for key in data.keys():
@@ -18,28 +18,28 @@ for key in data.keys():
     # match protocol:
     if single(protocol):
         if (protocol != '*'):
-            print(f"set firewall family inet filter fw-ddos term {key} from protocol {protocol}")
+            print("set firewall family inet filter fw-ddos term " + key + " from protocol " + str(protocol))
     else:
         protocols = eval(protocol.replace('~', ''))
         for proto in protocols:
-            print(f"set firewall family inet filter fw-ddos term {key} from protocol {proto}")
+            print("set firewall family inet filter fw-ddos term " + key + " from protocol " + str(proto))
     # match source port
     if single(s_port):
         if (s_port!='*'):
-            print(f"set firewall family inet filter fw-ddos term {key} from source-port {s_port}")
+            print("set firewall family inet filter fw-ddos term " + key + " from source-port " + str(s_port))
     else:
         s_ports = eval(s_port.replace('~', ''))
         for sp in s_ports:
-            print(f"set firewall family inet filter fw-ddos term {key} from source-port {sp}")
+            print("set firewall family inet filter fw-ddos term " + key + " from source-port " + str(sp))
     # match destination port
     if single(d_port):
         if (d_port!='*'):
-            print(f"set firewall family inet filter fw-ddos term {key} from destination-port {d_port}")
+            print("set firewall family inet filter fw-ddos term " + key + " from destination-port " + str(d_port))
     else:
         d_ports = eval(d_port.replace('~', ''))
         for dp in d_ports:
-            print(f"set firewall family inet filter fw-ddos term {key} from destination-port {dp}")
-    # match size range
+            print("set firewall family inet filter fw-ddos term " + key + " from destination-port " + str(dp))
+    # match size        
     if (size != '*'):
         x = size.split(",")
         if (x[0].startswith("(")):
@@ -50,8 +50,7 @@ for key in data.keys():
             s2 = int(x[1][0:int(len(x[1])) - 1]) - 1
         else:
             s2 = int(x[1][0:int(len(x[1])) - 1])
-        print(f"set firewall family inet filter fw-ddos term {key} from packet-length [{s1} {s2}]")
-    print(f"set firewall family inet filter fw-ddos term {key} then count {key}")
-    print(f"set firewall family inet filter fw-ddos term {key} then discard")
-
-print(f"set firewall family inet filter fw-ddos term match-any then accept")
+        print("set firewall family inet filter fw-ddos term " + key + " from packet-length [" + str(s1) + " " + str(s2) + "]")
+        print("set firewall family inet filter fw-ddos term " + key + " then count " + key)
+        print("set firewall family inet filter fw-ddos term " + key + " then discard")
+    print("set firewall family inet filter fw-ddos term match-any then accept")
