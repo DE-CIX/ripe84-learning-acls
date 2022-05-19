@@ -7,7 +7,7 @@ def single(s):
         return 0
     else:
         return 1
-f = open("rule.json", 'r')
+f = open("rules.json", 'r')
 data = json.load(f)
 data.keys()
 for key in data.keys():
@@ -51,6 +51,6 @@ for key in data.keys():
         else:
             s2 = int(x[1][0:int(len(x[1])) - 1])
         print("set firewall family inet filter fw-ddos term " + key + " from packet-length [" + str(s1) + " " + str(s2) + "]")
-        print("set firewall family inet filter fw-ddos term " + key + " then count " + key)
-        print("set firewall family inet filter fw-ddos term " + key + " then discard")
-    print("set firewall family inet filter fw-ddos term match-any then accept")
+    print("set firewall family inet filter fw-ddos term " + key + " then count " + key)
+    print("set firewall family inet filter fw-ddos term " + key + " then discard")
+print("set firewall family inet filter fw-ddos term match-any then accept")
