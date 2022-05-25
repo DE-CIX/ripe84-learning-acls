@@ -22,7 +22,7 @@ for key in data.keys():
     else:
         protocols = eval(protocol.replace('~', ''))
         for proto in protocols:
-            print("set firewall family inet filter fw-ddos term " + key + " from protocol " + str(proto))
+            print("set firewall family inet filter fw-ddos term " + key + " from protocol-except " + str(proto))
     # match source port
     if single(s_port):
         if (s_port!='*'):
@@ -30,7 +30,7 @@ for key in data.keys():
     else:
         s_ports = eval(s_port.replace('~', ''))
         for sp in s_ports:
-            print("set firewall family inet filter fw-ddos term " + key + " from source-port " + str(sp))
+            print("set firewall family inet filter fw-ddos term " + key + " from source-port-except " + str(sp))
     # match destination port
     if single(d_port):
         if (d_port!='*'):
@@ -38,7 +38,7 @@ for key in data.keys():
     else:
         d_ports = eval(d_port.replace('~', ''))
         for dp in d_ports:
-            print("set firewall family inet filter fw-ddos term " + key + " from destination-port " + str(dp))
+            print("set firewall family inet filter fw-ddos term " + key + " from destination-port-except " + str(dp))
     # match size        
     if (size != '*'):
         x = size.split(",")
